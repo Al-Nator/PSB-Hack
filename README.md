@@ -1,5 +1,17 @@
-MMG - 1 место по метрике, 4 - в целом
+# Команда MMG
 
-![image](https://github.com/user-attachments/assets/36faaa0c-77dd-47c8-a69c-e9d9caa63e68)
+## Состав
+* **Капитан Денис Маликов** – Капитан, DA
+* **Артём Таратин** – DS
+* **Даниил Аль-Натор** – DS
+* **Илья Обухов** – DE
+* **Максим Чудасов** – PM
 
-![image](https://github.com/user-attachments/assets/3a7bdb65-0b10-4161-9a5d-006ccc786118)
+## Результаты
+**1 место по метрике, 4 – в общем**
+
+
+|                                                                                 Метрика | Общий результат                                                                                 
+|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+![image](https://github.com/user-attachments/assets/b77bd719-ecdf-4229-84bd-8f5dd500e285) | <img width="490" alt="image" src="https://github.com/user-attachments/assets/b1da7e9c-fe4a-49b7-b885-81e437968efb">
+ㅤ                                                                                         | <img width="490" alt="image" src="https://github.com/user-attachments/assets/9509b1a2-f8df-47c8-b050-e3580a0e5249">
